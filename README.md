@@ -1,5 +1,5 @@
 #Matteo Manzo
-A positive Web Developer who thinks to much about robots and video games. When I am not too busy I also type random words on my [blog](http://matteomanzo.github.io/).
+A very positive Web Developer. When I am not too busy I also type random words on my [blog](http://matteomanzo.github.io/).
 
 ##Skills
 
