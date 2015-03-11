@@ -1,5 +1,5 @@
 #Matteo Manzo
-A very positive Web Developer. When I am not too busy I also type random words on my [blog](http://matteomanzo.github.io/).
+A very positive Web Developer who likes to play with Arduino and stuff. In fact I am planning to build a jetpack-drone big enough to allow people to fly! When I am not too busy I also type random words on my [blog](http://matteomanzo.github.io/).
 
 ##Skills
 
