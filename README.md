@@ -1,6 +1,6 @@
 #Matteo Manzo
-A very positive Web Developer who loves to constantly learn new technologies to build ( most of the time useless ) stuff.
-Robotics enthusiast, my final project at high school was home automation. When I am not too busy trying to build video games I also type random words on my [blog](http://matteomanzo.github.io/). Check it out!
+A pro-active Web Developer who loves to tinker with new technologies in order to build [useless] stuff.
+Robotics enthusiast, my final project at high school was about home automation. When I am not too busy trying to build video games I also type random words on my [blog](http://matteomanzo.github.io/). Check it out!
 
 ##Skills
 
@@ -19,8 +19,9 @@ In order to satisfy the client needing I was required to:
 - Customise the user experience such as for the client to be the best option and for the hotel to get the best value. 
 - Find valuable alternatives in case we couldn't provide the customer's original request.
 
-###Multi language
+###Polyglot
 
+- My native language is Italian
 - I have learnt English while I was living in Melbourne, Southampton and London,
 - I have learnt Spanish when I lived in Mallorca,
 - I have attended a German basic course in Berlin for two months.
@@ -29,7 +30,7 @@ In order to satisfy the client needing I was required to:
 
 ###Entrepreneurship
 
-I see opportunities everywhere, that is why I am running a startup in my hometown, where we gather artisans from Tuscany to craft handmade shoes and keep the tradition alive.
+I see opportunities everywhere, and I do everything to bring them to life. In my hometown, which is full of leather artisans, I created a network to connect the local artisans to the customers who want to buy handmade shoes, thus keeping the craftmanship tradition alive.
 I also have a shop on [Etsy](https://www.etsy.com/shop/Rogante).
 
 ###Do it Yourself!
