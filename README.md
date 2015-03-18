@@ -9,7 +9,8 @@ Robotics enthusiast, my final project at high school was about home automation. 
 Either working or playing sports, I much prefer working in team.
 
 - Pair programming at Makers Academy (co-op projects and final project);
-- Bar/kitchen/floor teamwork at Lime Wood, La Residencia and Hard Rock Cafe' (event handling and brainstorming).
+- Bar/kitchen/floor teamwork at Lime Wood, La Residencia and Hard Rock Cafe' (event handling and brainstorming);
+- I played Basketball and I've been involved in a Flag-Throwers folkloristic group.
 
 ###Customer service
 
