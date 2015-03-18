@@ -1,5 +1,5 @@
 #[Matteo Manzo](https://uk.linkedin.com/in/matteomanzo)
-A pro-active Web Developer who loves to tinker with new technologies in order to build [useless] stuff.
+A pro-active Web Developer who loves to tinker with new technologies in order to build [random] stuff.
 Robotics enthusiast, my final project at high school was about home automation. When I am not too busy trying to build video games I also type random words on my [blog](http://matteomanzo.github.io/). Check it out!
 
 ##Skills
