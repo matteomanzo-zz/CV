@@ -21,7 +21,7 @@ In order to satisfy the client needing I was required to:
 
 ###Polyglot
 
-- My native language is Italian
+- I was born in Italy, so my first language is Italian,
 - I have learnt English while I was living in Melbourne, Southampton and London,
 - I have learnt Spanish when I lived in Mallorca,
 - I have attended a German basic course in Berlin for two months.
