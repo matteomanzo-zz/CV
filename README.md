@@ -1,4 +1,4 @@
-#Matteo Manzo
+#[Matteo Manzo](https://uk.linkedin.com/in/matteomanzo)
 A pro-active Web Developer who loves to tinker with new technologies in order to build [useless] stuff.
 Robotics enthusiast, my final project at high school was about home automation. When I am not too busy trying to build video games I also type random words on my [blog](http://matteomanzo.github.io/). Check it out!
 
@@ -8,13 +8,13 @@ Robotics enthusiast, my final project at high school was about home automation. 
 
 Either working or playing sports, I much prefer working in team.
 
-- Pair programming at Makers Academy (co-op projects and final project);
-- Bar/kitchen/floor teamwork at Lime Wood, La Residencia and Hard Rock Cafe' (event handling and brainstorming);
-- I played Basketball and I've been involved in a Flag-Throwers folkloristic group.
+- Pair programming at [Makers Academy](http://www.makersacademy.com/) (co-op projects and final project);
+- Bar/kitchen/floor teamwork at [Lime Wood](http://www.limewoodhotel.co.uk/), [La Residencia](http://www.belmond.com/la-residencia-mallorca/) and [Hard Rock Cafe'](http://www.hardrock.com/cafes/florence/) (event handling and brainstorming);
+- I played Basketball and I've been involved in a Flag-Throwers folkloristic group. Ok, it's easier to show you an example! Ps: I am one of the blues, at the very right in [Segovia - Spain](https://www.youtube.com/watch?v=Z-7yq0_5GkA); and same colour, front row, the second starting from the right in [Marostica - Italy](https://www.youtube.com/watch?v=w8_ShYrwOrY)
 
 ###Customer service
 
-As I have been working in five star hotel in England and Spain, I have learnt how to interact and deal with very demanding customers.
+As I have been always working with clients, I have learnt how to interact and deal even with the very demanding ones.
 In order to satisfy the client needing I was required to:
 
 - Customise the user experience such as for the client to be the best option and for the hotel to get the best value. 
@@ -31,7 +31,7 @@ In order to satisfy the client needing I was required to:
 
 ###Entrepreneurship
 
-I see opportunities everywhere, and I do everything to bring them to life. In my hometown, which is full of leather artisans, I created a network to connect the local artisans to the customers who want to buy handmade shoes, thus keeping the craftmanship tradition alive.
+I see opportunities everywhere, and I do everything to bring them to life. In my hometown, which is full of leather artisans, I am creating a [network](http://www.muntuch.com/) to connect the local artisans to the customers who want to buy handmade shoes, thus keeping the craftmanship tradition alive.
 I also have a shop on [Etsy](https://www.etsy.com/shop/Rogante).
 
 ###Do it Yourself!
