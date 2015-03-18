@@ -1,16 +1,8 @@
 #Matteo Manzo
-A very positive Web Developer who likes to play with Arduino and stuff. In fact I am planning to build a jetpack-drone big enough to allow people to fly! When I am not too busy I also type random words on my [blog](http://matteomanzo.github.io/).
+A very positive Web Developer who loves to constantly learn new technologies to build ( most of the time useless ) stuff.
+Robotics enthusiast, my final project at high school was home automation. When I am not too busy trying to build video games I also type random words on my [blog](http://matteomanzo.github.io/). Check it out!
 
 ##Skills
-
-###Customer service
-
-As I have been working in five star hotel in England and Spain, I have learnt how to interact and deal with very demanding customers.
-In order to satisfy the client needing I was required to:
-
-- Customise the user experience such as for the client to be the best option and for the hotel to get the best value. 
-
-- Find valuable alternatives in case we couldn't provide the customer's original request.
 
 ###Teamwork
 
@@ -18,6 +10,14 @@ Either working or playing sports, I much prefer working in team.
 
 - Pair programming at Makers Academy (co-op projects and final project);
 - Bar/kitchen/floor teamwork at Lime Wood, La Residencia and Hard Rock Cafe' (event handling and brainstorming).
+
+###Customer service
+
+As I have been working in five star hotel in England and Spain, I have learnt how to interact and deal with very demanding customers.
+In order to satisfy the client needing I was required to:
+
+- Customise the user experience such as for the client to be the best option and for the hotel to get the best value. 
+- Find valuable alternatives in case we couldn't provide the customer's original request.
 
 ###Multi language
 
@@ -29,7 +29,7 @@ Either working or playing sports, I much prefer working in team.
 
 ###Entrepreneurship
 
-I see opportunities everywhere, that is why I am running a startup in my hometown, where we gather artisans to craft handmade shoes and keep the tradition alive.
+I see opportunities everywhere, that is why I am running a startup in my hometown, where we gather artisans from Tuscany to craft handmade shoes and keep the tradition alive.
 I also have a shop on [Etsy](https://www.etsy.com/shop/Rogante).
 
 ###Do it Yourself!
