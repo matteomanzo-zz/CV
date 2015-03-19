@@ -62,3 +62,5 @@ I just go crazy when I find any device that I could disassemble, have a look ins
 - Electrical Circuits
 - Three-phase motor functionality
 - Basic Arduino programs
+
+[Here](https://github.com/matteomanzo/CV/blob/master/job-list.md) you can find my job list
