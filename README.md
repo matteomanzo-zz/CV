@@ -37,13 +37,12 @@ I also have a shop on [Etsy](https://www.etsy.com/shop/Rogante).
 - Online marketing: A/B testing, multiple sale channels to identify the most reliable source of customers for our business
 
 ###Do it Yourself!
-I love to create things by myself.. In my arsenal you might find:
+I love to create things by myself, and I just go crazy when I find any device that I could disassemble, have a look inside, break it, fix it and reassemble it.
+In my arsenal you might find:
 
 - A bamboo fly fishing rod;
 - A Cinema cart;
 - A Cinema shoulder pad;
-
-I just go crazy when I find any device that I could disassemble, have a look inside, break it, fix it and reassemble it.
 
 ##Education
 
