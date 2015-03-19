@@ -17,15 +17,15 @@ Either working or playing sports, I much prefer working in teams.
 
 As I have been always working with customers in hotels, I have learnt how to handle customer's needs.
 
-- Customise the user experience such as for the client to be the best option and for the hotel to get the best value. 
-- Find valuable alternatives in case we couldn't provide the customer's original request.
+- I strived to create the best user experience for every client, whilst delivering value and meeting sales targets for the hotel.
+- Find valuable alternatives in case we couldn't provide the customer's original request
 
 ###Polyglot
 
-- I was born in Italy, so my first language is Italian,
-- I have learnt English while I was living in Melbourne, Southampton and London,
-- I have learnt Spanish when I lived in Mallorca,
-- I have attended a German basic course in Berlin for two months.
+- I was born in Italy, so my first language is Italian
+- I speak fluent English. I learnt it while I was living in Melbourne, Southampton and London
+- I have a professional working proficiency in Spanish. I learnt it when I lived in Mallorca
+- I have attended a German basic course in Berlin for two months
 
 ##Other skills
 
@@ -33,6 +33,8 @@ As I have been always working with customers in hotels, I have learnt how to han
 
 I see opportunities everywhere, and I do everything to bring them to life. In my hometown, which is full of leather artisans, I am creating a [network](http://www.muntuch.com/) to connect the local artisans to the customers who want to buy handmade shoes, thus keeping the craftmanship tradition alive.
 I also have a shop on [Etsy](https://www.etsy.com/shop/Rogante).
+- Managing the supply chain: Identifying and building relationships with artisan suppliers that match our quality requirements
+- Online marketing: A/B testing, multiple sale channels to identify the most reliable source of customers for our business
 
 ###Do it Yourself!
 I love to create things by myself.. In my arsenal you might find:
