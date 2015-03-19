@@ -21,3 +21,9 @@ Melbourne is awesome, big skyscrapers, everyone is super busy, everyone is runni
 I was working in an Italian restaurant/coffee bar, and I was behind the coffee machine. i found all the customer very picky about their coffees, and it sounded strange at the beginning.
 Working in there I've increased my multitasking skill and I've learnt how to think quick. I was always under pressure for the huge amount of coffees to make and the high standards, and I started to learn how to manage the stress and break big things into smaller and fix them individually.
 Australia was great, but I was eager to learn more about bartending and customer experience in different environments.
+
+###Relais & Chateaux - Lime Wood Hotel
+#####[06/08/2011 – 06/04/2012] Lyndhurst - England
+The job that I wanted was in a five star hotel, so I started to find ways trhough my network in order to get an interview in a high-level hotel, and I made it!
+The hiring process was short but intense, one phone interview, one Skype interview and a technical chat with the bar manager, but after a few day I was in.
+The thing that made me very excited as soon as I started to be a part of the team, it wasn't just interacting with VIPs like, football players or singers or even actors, but the massive amount of choices that a customer had. From top-shelf spirits to very rare cigars, even fancy combinations between food and spa treatments. Everything was so expensive and it was very hard to find the perfect match between the customer's needs and the hotel's profit. I really enjoyed 'stealing' dealing skills from my colleagues and then put those skills in my set of tools.
