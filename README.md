@@ -1,6 +1,6 @@
 #Matteo Manzo
-A pro-active Web Developer who loves to tinker with new technologies in order to build [random] stuff.  Now learning AngularJS and C#.
-Robotics enthusiast, my final project at high school was about home automation. When I am not too busy trying to build video games I also type random words on my [blog](http://matteomanzo.github.io/). Check it out!
+A pro-active Web Developer who loves to tinker with new technologies in order to build [random] stuff. Robotics enthusiast, my final project at high school was about home automation. I've just finished a 12-weeks, very intensive bootcamp at [Makers Academy](http://www.makersacademy.com/) and I am now ready to join a team of great developers to work with, and conquer the world!
+When I am not too busy trying to build video games I also type random words on my [blog](http://matteomanzo.github.io/). Check it out!
 
 ##Skills
 
