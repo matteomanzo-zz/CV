@@ -1,4 +1,4 @@
-#[Matteo Manzo](https://uk.linkedin.com/in/matteomanzo)
+#Matteo Manzo
 A pro-active Web Developer who loves to tinker with new technologies in order to build [random] stuff.  Now learning AngularJS and C#.
 Robotics enthusiast, my final project at high school was about home automation. When I am not too busy trying to build video games I also type random words on my [blog](http://matteomanzo.github.io/). Check it out!
 
@@ -66,3 +66,4 @@ I just go crazy when I find any device that I could disassemble, have a look ins
 - Basic Arduino programs
 
 [Here](https://github.com/matteomanzo/CV/blob/master/job-list.md) you can find my job list
+Check my [LinkedIn](https://uk.linkedin.com/in/matteomanzo) profile too!
