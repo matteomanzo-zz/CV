@@ -2,6 +2,14 @@
 A pro-active Web Developer who loves to tinker with new technologies in order to build [random] stuff. Robotics enthusiast, my final project at high school was about home automation. I've just finished a 12-weeks, very intensive bootcamp at [Makers Academy](http://www.makersacademy.com/) and I am now ready to join a team of great developers to work with, and conquer the world!
 When I am not too busy trying to build video games I also type random words on my [blog](http://matteomanzo.github.io/). Check it out!
 
+##Favourite Projects
+| Project Repo | Technologies | Testing | Description |
+| ------------ | ----------- | ----------- | ----------- |
+| [Playlister](https://github.com/matteomanzo/Playlister) | JavaScript, jQuery, HTML & CSS, NodeJS, Express, MongoDB Spotify API | Mocha, Chai, SeleniumJS | Final project at Makers Academy. A way to collaborate on creating a playlist, with the unique feature that the songs move with the person who chose them. You 'turn up' and your tunes go in. You leave and your tunes leave with you. Read more [here](https://github.com/matteomanzo/Playlister/blob/master/README.md).. |
+| [5 A Side](https://github.com/matteomanzo/5_a_side) | Ruby, Sinatra, HTML & CSS, PostgreSQL | RSpec, Capybara  | Organize your next football match, track the players who are playing and randomly generate teams. |
+| [PigPong](https://github.com/matteomanzo/PigPong) <br/> [Play it!](https://zombie-pig-pong.herokuapp.com) | JavaScript, jQuery, HTML & CSS, NodeJS, Phaser | Mocha, CasperJS, Chai | The Makerthon project. A game where you are a farmer and you have to avoid the zombie pigs which are bouncing all around, it's fun! |
+| [Node Github API](https://github.com/matteomanzo/node_github_api) | JavaScript, jQuery, HTML & CSS, NodeJS, Express, GitHub API | Mocha, CasperJS, PhantomJS | A simple Node server, which asynchronously querying the Github API in order to get users info back. |
+
 ##Skills
 
 ###Teamwork
@@ -20,15 +28,6 @@ As I have been always working with customers in hotels, I have learnt how to han
 - I strived to create the best user experience for every client, whilst delivering value and meeting sales targets for the hotel.
 - Find valuable alternatives in case we couldn't provide the customer's original request
 
-###Polyglot
-
-- I was born in Italy, so my first language is Italian
-- I speak fluent English. I learnt it while I was living in Melbourne, Southampton and London
-- I have a professional working proficiency in Spanish. I learnt it when I lived in Mallorca
-- I have attended a German basic course in Berlin for two months
-
-##Other skills
-
 ###Entrepreneurship
 
 I see opportunities everywhere, and I do everything to bring them to life. In my hometown, which is full of leather artisans, I am creating a [network](http://www.muntuch.com/) to connect the local artisans to the customers who want to buy handmade shoes, thus keeping the craftmanship tradition alive.
@@ -36,7 +35,15 @@ I also have a shop on [Etsy](https://www.etsy.com/shop/Rogante).
 - Managing the supply chain: Identifying and building relationships with artisan suppliers that match our quality requirements
 - Online marketing: A/B testing, multiple sale channels to identify the most reliable source of customers for our business
 
+###Polyglot
+
+- I was born in Italy, so my first language is Italian
+- I speak fluent English. I learnt it while I was living in Melbourne, Southampton and London
+- I have a professional working proficiency in Spanish. I learnt it when I lived in Mallorca
+- I have attended a German basic course in Berlin for two months
+
 ###Do it Yourself!
+
 I love to create things by myself, and I just go crazy when I find any device that I could disassemble, have a look inside, break it, fix it and reassemble it.
 In my arsenal you might find:
 
