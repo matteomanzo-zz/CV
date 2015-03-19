@@ -1,21 +1,21 @@
 #[Matteo Manzo](https://uk.linkedin.com/in/matteomanzo)
-A pro-active Web Developer who loves to tinker with new technologies in order to build [random] stuff.
+A pro-active Web Developer who loves to tinker with new technologies in order to build [random] stuff.  Now learning AngularJS and C#.
 Robotics enthusiast, my final project at high school was about home automation. When I am not too busy trying to build video games I also type random words on my [blog](http://matteomanzo.github.io/). Check it out!
 
 ##Skills
 
 ###Teamwork
 
-Either working or playing sports, I much prefer working in team.
+Either working or playing sports, I much prefer working in teams.
 
-- Pair programming at [Makers Academy](http://www.makersacademy.com/) (co-op projects and final project);
-- Bar/kitchen/floor teamwork at [Lime Wood](http://www.limewoodhotel.co.uk/), [La Residencia](http://www.belmond.com/la-residencia-mallorca/) and [Hard Rock Cafe'](http://www.hardrock.com/cafes/florence/) (event handling and brainstorming);
-- I played Basketball and I've been involved in a Flag-Throwers folkloristic group. Ok, it's easier to show you an example! Ps: I am one of the blues, at the very right in [Segovia - Spain](https://www.youtube.com/watch?v=Z-7yq0_5GkA); and same colour, front row, the second starting from the right in [Marostica - Italy](https://www.youtube.com/watch?v=w8_ShYrwOrY)
+- Pair programming and scrums at [Makers Academy](http://www.makersacademy.com/) (co-op projects and final project);
+- I led a team of 6 people at [La Residencia](http://www.belmond.com/la-residencia-mallorca/) (daily briefings and setting goals);
+- Bar/kitchen/floor teamwork at [Lime Wood](http://www.limewoodhotel.co.uk/) and [Hard Rock Cafe'](http://www.hardrock.com/cafes/florence/) (event handling and brainstorming);
+- I played Basketball and I've been involved in a Flag-Throwers folkloristic group. Ok, it's easier to show you an example! I am one of the blues, at the very right in [Segovia - Spain](https://www.youtube.com/watch?v=Z-7yq0_5GkA); and same colour, front row, the second starting from the right in [Marostica - Italy](https://www.youtube.com/watch?v=w8_ShYrwOrY)
 
 ###Customer service
 
-As I have been always working with clients, I have learnt how to interact and deal even with the very demanding ones.
-In order to satisfy the client needing I was required to:
+As I have been always working with customers in hotels, I have learnt how to handle customer's needs.
 
 - Customise the user experience such as for the client to be the best option and for the hotel to get the best value. 
 - Find valuable alternatives in case we couldn't provide the customer's original request.
@@ -41,7 +41,7 @@ I love to create things by myself.. In my arsenal you might find:
 - A Cinema cart;
 - A Cinema shoulder pad;
 
-I just go crazy when I find any device that I could disassemble, have a look inside and reassemble it.
+I just go crazy when I find any device that I could disassemble, have a look inside, break it, fix it and reassemble it.
 
 ##Education
 
