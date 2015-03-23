@@ -1,6 +1,6 @@
 #Matteo Manzo
 A pro-active Web Developer who loves to tinker with new technologies in order to build [random] stuff. Robotics enthusiast, my final project at high school was about home automation. I've completed a 12-weeks, very intensive bootcamp at [Makers Academy](http://www.makersacademy.com/) and I am now ready to join a team of great developers to work with, and conquer the world!
-When I am not too busy trying to build video games I also type random words on my [blog](http://matteomanzo.github.io/). Check it out!
+When I am not too busy trying to build video games I vent banging my head on the keyboard while I'm on my [blog](http://matteomanzo.github.io/). Check it out!
 
 ##Favourite Projects
 | Project Repo | Live Version | Technologies | Testing | Description |
@@ -28,10 +28,12 @@ I became a Web Developer at Makers, coding from day 1 to the last. Although I wa
 
 ###Customer service
 
-As I have been always working with customers in hotels, I have learnt how to handle customer's needs.
+A customer is a person who pays for a service, which is good. Most of the times though, this person misunderstand the difference between giving an order to a servant and actually knowing what to ask, which is bad.
+Helping the customer to understand what is effectively the product that he's looking for, made my life (and my job) much easier.
+As I have been always working with customers in hotels, I have learnt how to handle these customer's needs.
 
-- I strived to create the best user experience for every client, whilst delivering value and meeting sales targets for the hotel.
-- Find valuable alternatives in case we couldn't provide the customer's original request
+- I strived to create the best user experience for every client, from the beginning to the end, whilst delivering value and meeting sales targets for the business
+- Find valuable alternatives in case we couldn't provide the customer's original request and let the customer understand the reason
 
 ###Entrepreneurship
 
