@@ -8,7 +8,7 @@ When I am not too busy trying to build video games I vent banging my head on the
 | [Playlister](https://github.com/matteomanzo/Playlister) | [GO!](https://turnuptunein.herokuapp.com/) | JavaScript, jQuery, HTML & CSS, NodeJS, Express, MongoDB Spotify API | Mocha, Chai, SeleniumJS | Final project at Makers Academy. A way to collaborate on creating a playlist, with the unique feature that the songs move with the person who chose them. You 'turn up' and your tunes go in. You leave and your tunes leave with you. Read more [here](https://github.com/matteomanzo/Playlister/blob/master/README.md).. |
 | [5 A Side](https://github.com/matteomanzo/5_a_side) | [GO!](https://makers-five-a-side.herokuapp.com/) | Ruby, Sinatra, HTML & CSS, PostgreSQL | RSpec, Capybara  | Organize your next football match, track the players who are playing and randomly generate teams. |
 | [PigPong](https://github.com/matteomanzo/PigPong) | [Play it!](https://zombie-pig-pong.herokuapp.com) | JavaScript, jQuery, HTML & CSS, NodeJS, Phaser | Mocha, CasperJS, Chai | The Makerthon project. A game where you are a farmer and you have to avoid the zombie pigs which are bouncing all around, it's fun! |
-| [Node Github API](https://github.com/matteomanzo/node_github_api) | Not deployed yet | JavaScript, jQuery, HTML & CSS, NodeJS, Express, GitHub API | Mocha, CasperJS, PhantomJS | A simple Node server, which asynchronously querying the Github API in order to get users info back. |
+| [Node Github API](https://github.com/matteomanzo/node_github_api) | Not deployed yet | JavaScript, jQuery, HTML & CSS, NodeJS, Express, GitHub API | Mocha, CasperJS, PhantomJS | A simple Node server, which asynchronously queries the Github API in order to get user's info back. |
 
 ##Skills
 
