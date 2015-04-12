@@ -1,9 +1,9 @@
 #Job List
-I guess if you want to read the list of experiences that I have done, you don't just want to see the dates and the places, but you want to actually feel what I have experienced and learnt. There is a big chapter of my life that widely opened my mind. 
+I guess if you want to read the list of experiences that I have done, you don't just want to see the dates and the places where I've woked, but you want to actually feel what I have experienced and learnt. There is a big chapter of my life that widely opened my mind. 
 While I was waiting to understand what to do in life, I thought that learning new languages could be fun, and also I could find some experiences that would help me to grow.
 I took a decision then! To invest a few years in travelling, in order to see what the world is like out of my hometown.
 
-Here is the list of places that I've visited and worked in, from the beginning, to the most recent one.
+Here are the step that have contributed to my growth, from the beginning, to the most recent one.
 
 ###ECV Park Albatros Camping Village
 #####[01/03/2010 – 30/09/2010] Livorno - Italy
