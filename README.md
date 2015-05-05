@@ -1,6 +1,6 @@
 #Matteo Manzo
 A pro-active Web Developer who loves to tinker with new technologies in order to build [random] stuff. Robotics enthusiast, my final project at high school was about home automation. I've completed a 12-weeks, very intensive bootcamp at [Makers Academy](http://www.makersacademy.com/) and I am now ready to join a team of great developers to work with, and conquer the world!
-When I am not too busy trying to build video games I vent banging my head on the keyboard while I'm on my [blog](http://matteomanzo.github.io/). Check it out!
+When I am not too busy trying to build video games I vent banging my head on the keyboard while I'm writing on my [blog](http://matteomanzo.github.io/). Check it out!
 
 ##Favourite Projects
 | Project Repo | Live Version | Technologies | Testing | Description |
@@ -18,13 +18,13 @@ Either working or playing sports, I much prefer working in teams.
 
 - Pair programming and scrums at [Makers Academy](http://www.makersacademy.com/) (co-op projects and final project)
 - 6 weeks mentoring the junior students at Makers
-- I led a team of 6 people at [La Residencia](http://www.belmond.com/la-residencia-mallorca/) (daily briefings and setting goals)
+- I led a team of 6 people at [La Residencia](http://www.belmond.com/la-residencia-mallorca/) (daily briefings and goals setting)
 - Bar/kitchen/floor teamwork at [Lime Wood](http://www.limewoodhotel.co.uk/) and [Hard Rock Cafe'](http://www.hardrock.com/cafes/florence/) (event handling and brainstorming)
-- I played Basketball and I've been involved in a Flag-Throwers folkloristic group. Ok, it's easier to show you an example! I am one of the blues, at the very right in [Segovia - Spain](https://www.youtube.com/watch?v=Z-7yq0_5GkA); and same colour, front row, the second starting from the right in [Marostica - Italy](https://www.youtube.com/watch?v=w8_ShYrwOrY)
+- I played Basketball and I've been involved in a flag-throwers folkloristic group. Ok, it's easier to show you an example! I am one of the blues, at the very right in [Segovia - Spain](https://www.youtube.com/watch?v=Z-7yq0_5GkA); and same colour, front row, the second starting from the right in [Marostica - Italy](https://www.youtube.com/watch?v=w8_ShYrwOrY)
 
 ###Code best practices
 
-I became a Web Developer at Makers, coding from day 1 to the last. Although I was new to code, it has been natural for me to pick up how to code following good practices such as writing user stories, spend a lot of time thinking about the design of the application before I type a line of code, follow the SOLID principles and, last but not least, test drive!
+I became a Web Developer at Makers, coding from day 1 to the last. Although I was new to programming, it has been natural for me to pick up how to code following good practices such as writing user stories, spend a lot of time thinking about the design of the application before I type a line of code, follow the SOLID principles and, last but not least, test drive!
 
 ###Customer service
 
@@ -79,4 +79,4 @@ In my arsenal you might find:
 - Basic Arduino programs
 
 [Here](https://github.com/matteomanzo/CV/blob/master/job-list.md) you can find my job list. 
-Check my [LinkedIn](https://uk.linkedin.com/in/matteomanzo) profile too!
+Check out my [LinkedIn](https://uk.linkedin.com/in/matteomanzo) profile too!
