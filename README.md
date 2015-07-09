@@ -24,7 +24,7 @@ Either working or playing sports, I much prefer working in teams.
 
 ###Code best practices
 
-I became a Web Developer at Makers, coding from day 1 to the last. Although I was new to programming, it has been natural for me to pick up how to code following good practices such as writing user stories, spend a lot of time thinking about the design of the application before I type a line of code, follow the SOLID principles and, last but not least, test drive!
+I became a Web Developer at Makers, coding from day 1 to the last. Although I was new to programming, it has been natural for me to pick up how to code following good practices such as writing user stories, agile working, follow the SOLID principles and, last but not least, test drive!
 
 ###Customer service
 
