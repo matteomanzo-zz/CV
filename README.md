@@ -17,7 +17,7 @@ When I am not too busy trying to build video games I vent banging my head on the
 Either working or playing sports, I much prefer working in teams.
 
 - Pair programming and scrums at [Makers Academy](http://www.makersacademy.com/) (co-op projects and final project)
-- 6 weeks mentoring the junior students at Makers
+- 6 weeks mentoring the junior students at Makers (and more mentoring after)
 - I led a team of 6 people at [La Residencia](http://www.belmond.com/la-residencia-mallorca/) (daily briefings and goals setting)
 - Bar/kitchen/floor teamwork at [Lime Wood](http://www.limewoodhotel.co.uk/) and [Hard Rock Cafe'](http://www.hardrock.com/cafes/florence/) (event handling and brainstorming)
 - I played Basketball and I've been involved in a flag-throwers folkloristic group. Ok, it's easier to show you an example! I am one of the blues, at the very right in [Segovia - Spain](https://www.youtube.com/watch?v=Z-7yq0_5GkA); and same colour, front row, the second starting from the right in [Marostica - Italy](https://www.youtube.com/watch?v=w8_ShYrwOrY)
