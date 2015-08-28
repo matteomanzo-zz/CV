@@ -1,5 +1,5 @@
 #Matteo Manzo
-A pro-active Web Developer who loves to tinker with new technologies in order to build [random] stuff. Robotics enthusiast, my final project at high school was about home automation. I've completed a 12-weeks, very intensive bootcamp at [Makers Academy](http://www.makersacademy.com/) and I am now ready to join a team of great developers to work with, and conquer the world!
+A pro-active Web Developer who loves to tinker with new technologies in order to build [random] stuff. Robotics enthusiast, my final project at high school was about home automation. I've completed a 12-weeks, very intensive bootcamp at [Makers Academy](http://www.makersacademy.com/) and I am now working for [comparethemarket.com](http://www.comparethemarket.com/)!
 When I am not too busy trying to build video games I vent banging my head on the keyboard while I'm writing on my [blog](http://matteomanzo.github.io/). Check it out!
 
 ##Favourite Projects
