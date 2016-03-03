@@ -1,6 +1,6 @@
 #Matteo Manzo
-A pro-active Web Developer who loves to tinker with new technologies in order to build [random] stuff. Robotics enthusiast, my final project at high school was about home automation. I've completed a 12-weeks, very intensive bootcamp at [Makers Academy](http://www.makersacademy.com/) and worked at the Meerkat Movies app for  [comparethemarket.com](http://www.comparethemarket.com/)! I am currently freelancing and working at [Rogante](https://www.rogante.co/).
-When I am not too busy trying to build video games I vent banging my head on the keyboard while I'm writing on my [blog](http://matteomanzo.github.io/). Check it out!
+A pro-active Web Developer who loves to tinker with new technologies in order to build [random] stuff. Robotics enthusiast, my final project at high school was about home automation. I've completed a 12-weeks, very intensive bootcamp at [Makers Academy](http://www.makersacademy.com/) and worked from the first version of the [Meerkat Movies](http://www.comparethemarket.com/meerkat/movies/) app for comparethemarket.com. I am currently freelancing and working at [Rogante](https://www.rogante.co/).
+When I am not too busy playing video games, I try to find something to talk about in my [blog](http://matteomanzo.github.io/).
 
 ##Favourite Projects
 | Project Repo | Live Version | Technologies | Testing | Description |
@@ -15,61 +15,59 @@ When I am not too busy trying to build video games I vent banging my head on the
 
 ###Teamwork
 
-Working alone may be more productive for some people, but I much prefer working in teams.
+Working in teams brings more ideas on the table and more brains to solve the problem, along with a great vibe and motivation. I love being part of teams.
 
-- Daily pair rotations in my current team at [comparethemarket.com](http://www.comparethemarket.com/)
-- Pair programming and scrums at [Makers Academy](http://www.makersacademy.com/) (co-op projects and final project)
-- 6+ weeks mentoring the junior students at Makers (and more mentoring after)
-- I led a team of 6 people at [La Residencia](http://www.belmond.com/la-residencia-mallorca/) (daily briefings and goals setting)
+- Brainstorming with not-programming-related roles to find the best solution together from a wider range of ideas;
+- Daily pair rotations in my previous team at [comparethemarket.com](http://www.comparethemarket.com/);
+- Pair programming and scrums at [Makers Academy](http://www.makersacademy.com/) (co-op projects and final project);
+- 6+ weeks mentoring junior students at Makers (and more mentoring after);
 
 ###Adaptability
 
 I love change, so I am able to switch tasks and environments very rapidly.
-Working on different products allows me to invest a lot of time learning new technologies, therefore being able to choose the right tool to solve the problem.
+Working on different products allows me to spend a lot of time learning new technologies, therefore being able to choose the right tool to solve the problem.
 
-- Load tested a website using both Locust.io (Python based) and Visual Studio Enterprise 2015 (C#)
-- Converted apps from C# to AngularJS
-- Changed team and product every week during my experience at [Makers Academy](http://www.makersacademy.com/)
-
-###Code best practices
-
-I became a Web Developer at Makers, coding from day 1. Although I was new to programming, it has been natural for me to pick up how to code following good practices such as writing user stories, agile working, follow the SOLID principles and, last but not least, test drive!
+- Load tested a website using both Locust.io (Python based) and Visual Studio Enterprise 2015 (C#);
+- Changed team and product every week during my experience at [Makers Academy](http://www.makersacademy.com/).
 
 ###Entrepreneurship
 
-I see opportunities everywhere, and I do everything to bring them to life. In my hometown, which is full of leather artisans, I am creating a [network](http://www.muntuch.com/) to connect the local artisans to the customers who want to buy handmade shoes, thus keeping the craftmanship tradition alive.
+I see opportunities everywhere, and I do everything to bring them to life. In my hometown, which is full of leather artisans, I am creating a [network](http://www.rogante.co/) to connect the local artisans to the customers who want to buy handmade shoes, thus keeping the craftmanship tradition alive.
 I also have a shop on [Etsy](https://www.etsy.com/shop/Rogante).
-- Managing the supply chain: Identifying and building relationships with artisan suppliers that match our quality requirements
-- Online marketing: A/B testing, multiple sale channels to identify the most reliable source of customers for our business
+- Developing internal tools to ease the interaction between us and the artisan when it comes to creation and with drivers when it comes to shipping;
+- Managing the supply chain: Identifying and building relationships with artisan suppliers that match our quality requirements;
+- Online marketing: A/B testing, multiple sale channels to identify the most reliable source of customers for our business.
 
 ###Customer service
 
 A customer is a person who pays for a service, which is good. Most of the times though, this person misunderstand the difference between giving an order to a servant and actually knowing what to ask, which is bad.
 Helping the customer to understand what is effectively the product that he's looking for, made my life (and my job) much easier.
-As I have been always working with customers in hotels, I have learnt how to handle these customer's needs.
+As I have been always working with customers, I have learnt how to handle these customer's needs.
 
-- I strived to create the best user experience for every client, from the beginning to the end, whilst delivering value and meeting sales targets for the business
-- Find valuable alternatives in case we couldn't provide the customer's original request and let the customer understand the reason
+- Help customers to understand what they are aiming to and analyze crucial features of the product when it comes to development;
+- I strived to create the best user experience for every client, from the beginning to the end, whilst delivering value and meeting targets for the business.
 
 ###Polyglot
 
-- I was born in Italy, so my first language is Italian
-- I speak fluent English. I learnt it while I was living in Melbourne, Southampton and London
-- I have a professional working proficiency in Spanish. I learnt it when I lived in Mallorca
-- I have attended a German basic course in Berlin for two months
+I am Italian and I am also fluent in English and Spanish.
 
-###Do it Yourself!
+##Jobs
 
-I love to create things by myself, and I just go crazy when I find any device that I could disassemble, have a look inside, break it, fix it and reassemble it.
-In my arsenal you might find:
+###[Rogante](http://www.rogante.co/) ~ 09/2014 to present
 
-- A bamboo fly fishing rod;
-- A Cinema cart;
-- A Cinema shoulder pad;
+- Front-end part of the website
+- Built internal tools to ease interaction with suppliers and delivers
+
+###[Compare the Market](http://www.comparethemarket.com/) ~ 05/2015 to 02/2016
+
+- Developed Meerkat Movies app for iOS and Android using the Ionic framework
+- C# based projects while working on the Travel and Energy section of the website
+- Xamarin and Calaba.sh mobile testing
+- Load testing using Locust.io and Visual Studio Enterprise 2015
 
 ##Education
 
-###Makers Academy ~ 08-12-2014 to 13-03-2015
+###Makers Academy ~ 12-2014 to 03-2015
 
 - Problem solving
 - Independent learning
@@ -86,6 +84,3 @@ In my arsenal you might find:
 - Electrical Circuits
 - Three-phase motor functionality
 - Basic Arduino programs
-
-[Here](https://github.com/matteomanzo/CV/blob/master/job-list.md) you can find my job list. 
-Check out my [LinkedIn](https://uk.linkedin.com/in/matteomanzo) profile too!
