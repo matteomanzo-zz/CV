@@ -17,26 +17,26 @@ When I am not too busy playing video games, I try to find something to talk abou
 
 Working in teams brings more ideas on the table and more brains to solve the problem, along with a great vibe and motivation. I love being part of teams.
 
-- Brainstorming with not-programming-related roles to find the best solution together from a wider range of ideas;
-- Daily pair rotations in my previous team at [comparethemarket.com](http://www.comparethemarket.com/);
-- Pair programming and scrums at [Makers Academy](http://www.makersacademy.com/) (co-op projects and final project);
-- 6+ weeks mentoring junior students at Makers (and more mentoring after);
+- Brainstorming with not-programming-related roles to find the best solution together from a wider range of ideas
+- Daily pair rotations in my previous team at [comparethemarket.com](http://www.comparethemarket.com/)
+- Pair programming and scrums at [Makers Academy](http://www.makersacademy.com/) (co-op projects and final project)
+- 6+ weeks mentoring junior students at Makers (and more mentoring after)
 
 ###Adaptability
 
 I love change, so I am able to switch tasks and environments very rapidly.
 Working on different products allows me to spend a lot of time learning new technologies, therefore being able to choose the right tool to solve the problem.
 
-- Load tested a website using both Locust.io (Python based) and Visual Studio Enterprise 2015 (C#);
-- Changed team and product every week during my experience at [Makers Academy](http://www.makersacademy.com/).
+- Load tested a website using both Locust.io (Python based) and Visual Studio Enterprise 2015 (C#)
+- Changed team and product every week during my experience at [Makers Academy](http://www.makersacademy.com/)
 
 ###Entrepreneurship
 
 I see opportunities everywhere, and I do everything to bring them to life. In my hometown, which is full of leather artisans, I am creating a [network](http://www.rogante.co/) to connect the local artisans to the customers who want to buy handmade shoes, thus keeping the craftmanship tradition alive.
 I also have a shop on [Etsy](https://www.etsy.com/shop/Rogante).
-- Developing internal tools to ease the interaction between us and the artisan when it comes to creation and with drivers when it comes to shipping;
-- Managing the supply chain: Identifying and building relationships with artisan suppliers that match our quality requirements;
-- Online marketing: A/B testing, multiple sale channels to identify the most reliable source of customers for our business.
+- Developing internal tools to ease the interaction between us and the artisan when it comes to creation and with drivers when it comes to shipping
+- Managing the supply chain: Identifying and building relationships with artisan suppliers that match our quality requirements
+- Online marketing: A/B testing, multiple sale channels to identify the most reliable source of customers for our business
 
 ###Customer service
 
@@ -44,8 +44,8 @@ A customer is a person who pays for a service, which is good. Most of the times 
 Helping the customer to understand what is effectively the product that he's looking for, made my life (and my job) much easier.
 As I have been always working with customers, I have learnt how to handle these customer's needs.
 
-- Help customers to understand what they are aiming to and analyze crucial features of the product when it comes to development;
-- I strived to create the best user experience for every client, from the beginning to the end, whilst delivering value and meeting targets for the business.
+- Help customers to understand what they are aiming to and analyze crucial features of the product when it comes to development
+- I strived to create the best user experience for every client, from the beginning to the end, whilst delivering value and meeting targets for the business
 
 ###Polyglot
 
@@ -53,12 +53,12 @@ I am Italian and I am also fluent in English and Spanish.
 
 ##Jobs
 
-###[Rogante](http://www.rogante.co/) ~ 09/2014 to present
+###Rogante ~ 09/2014 to present
 
 - Front-end part of the website
 - Built internal tools to ease interaction with suppliers and delivers
 
-###[Compare the Market](http://www.comparethemarket.com/) ~ 05/2015 to 02/2016
+###Compare the Market ~ 05/2015 to 02/2016
 
 - Developed Meerkat Movies app for iOS and Android using the Ionic framework
 - C# based projects while working on the Travel and Energy section of the website
